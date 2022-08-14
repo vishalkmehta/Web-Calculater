@@ -19,6 +19,7 @@ button{
     font-size: 30px;
 }
 input{
+    margin-left: 4px;
     width: 97%;
     height: 90px;
     background-color: grey;
